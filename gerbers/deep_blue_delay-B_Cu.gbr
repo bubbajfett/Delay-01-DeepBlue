@@ -1,55 +1,55 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.11+dfsg-1build4*
-G04 #@! TF.CreationDate,2026-01-25T22:06:14-05:00*
-G04 #@! TF.ProjectId,deep_blue_delay,64656570-5f62-46c7-9565-5f64656c6179,rev?*
-G04 #@! TF.SameCoordinates,Original*
-G04 #@! TF.FileFunction,Copper,L2,Bot*
-G04 #@! TF.FilePolarity,Positive*
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.11+dfsg-1build4*%
+%TF.CreationDate,2026-01-27T21:05:07-05:00*%
+%TF.ProjectId,deep_blue_delay,64656570-5f62-46c7-9565-5f64656c6179,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L2,Bot*%
+%TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.11+dfsg-1build4) date 2026-01-25 22:06:14*
+G04 Created by KiCad (PCBNEW 7.0.11+dfsg-1build4) date 2026-01-27 21:05:07*
 %MOMM*%
 %LPD*%
 G01*
 G04 APERTURE LIST*
-G04 #@! TA.AperFunction,ComponentPad*
+%TA.AperFunction,ComponentPad*%
 %ADD10R,1.600000X1.600000*%
-G04 #@! TD*
-G04 #@! TA.AperFunction,ComponentPad*
+%TD*%
+%TA.AperFunction,ComponentPad*%
 %ADD11C,1.600000*%
-G04 #@! TD*
-G04 #@! TA.AperFunction,ComponentPad*
+%TD*%
+%TA.AperFunction,ComponentPad*%
 %ADD12R,1.700000X1.700000*%
-G04 #@! TD*
-G04 #@! TA.AperFunction,ComponentPad*
+%TD*%
+%TA.AperFunction,ComponentPad*%
 %ADD13O,1.700000X1.700000*%
-G04 #@! TD*
-G04 #@! TA.AperFunction,ComponentPad*
+%TD*%
+%TA.AperFunction,ComponentPad*%
 %ADD14O,1.600000X1.600000*%
-G04 #@! TD*
-G04 #@! TA.AperFunction,ComponentPad*
+%TD*%
+%TA.AperFunction,ComponentPad*%
 %ADD15R,3.500120X3.500120*%
-G04 #@! TD*
-G04 #@! TA.AperFunction,ComponentPad*
+%TD*%
+%TA.AperFunction,ComponentPad*%
 %ADD16C,3.500120*%
-G04 #@! TD*
-G04 #@! TA.AperFunction,ComponentPad*
+%TD*%
+%TA.AperFunction,ComponentPad*%
 %ADD17R,1.800000X1.800000*%
-G04 #@! TD*
-G04 #@! TA.AperFunction,ComponentPad*
+%TD*%
+%TA.AperFunction,ComponentPad*%
 %ADD18O,1.800000X1.800000*%
-G04 #@! TD*
-G04 #@! TA.AperFunction,ComponentPad*
+%TD*%
+%TA.AperFunction,ComponentPad*%
 %ADD19R,1.050000X1.500000*%
-G04 #@! TD*
-G04 #@! TA.AperFunction,ComponentPad*
+%TD*%
+%TA.AperFunction,ComponentPad*%
 %ADD20O,1.050000X1.500000*%
-G04 #@! TD*
-G04 #@! TA.AperFunction,ViaPad*
+%TD*%
+%TA.AperFunction,ViaPad*%
 %ADD21C,0.800000*%
-G04 #@! TD*
-G04 #@! TA.AperFunction,Conductor*
+%TD*%
+%TA.AperFunction,Conductor*%
 %ADD22C,0.250000*%
-G04 #@! TD*
+%TD*%
 G04 APERTURE END LIST*
 D10*
 X128016000Y-91948000D03*
@@ -537,7 +537,7 @@ X153975011Y-55962951D02*
 X150844060Y-52832000D01*
 X105156000Y-95504000D02*
 X111650999Y-101998999D01*
-G04 #@! TA.AperFunction,Conductor*
+%TA.AperFunction,Conductor*%
 G36*
 X129666671Y-81076395D02*
 G01*
@@ -1638,8 +1638,8 @@ X129533546Y-81105354D01*
 X129595856Y-81071331D01*
 X129666671Y-81076395D01*
 G37*
-G04 #@! TD.AperFunction*
-G04 #@! TA.AperFunction,Conductor*
+%TD.AperFunction*%
+%TA.AperFunction,Conductor*%
 G36*
 X133341242Y-91077502D02*
 G01*
@@ -2235,8 +2235,8 @@ X131231282Y-91057500D01*
 X133273121Y-91057500D01*
 X133341242Y-91077502D01*
 G37*
-G04 #@! TD.AperFunction*
-G04 #@! TA.AperFunction,Conductor*
+%TD.AperFunction*%
+%TA.AperFunction,Conductor*%
 G36*
 X101214835Y-99693148D02*
 G01*
@@ -2305,8 +2305,8 @@ X100512899Y-100295888D01*
 X101201272Y-99607516D01*
 X101214835Y-99693148D01*
 G37*
-G04 #@! TD.AperFunction*
-G04 #@! TA.AperFunction,Conductor*
+%TD.AperFunction*%
+%TA.AperFunction,Conductor*%
 G36*
 X111883964Y-86709471D02*
 G01*
@@ -2546,8 +2546,8 @@ X107298625Y-86689469D01*
 X111815843Y-86689469D01*
 X111883964Y-86709471D01*
 G37*
-G04 #@! TD.AperFunction*
-G04 #@! TA.AperFunction,Conductor*
+%TD.AperFunction*%
+%TA.AperFunction,Conductor*%
 G36*
 X100459066Y-69874770D02*
 G01*
@@ -2739,8 +2739,8 @@ X100324317Y-69854662D01*
 X100394644Y-69844933D01*
 X100459066Y-69874770D01*
 G37*
-G04 #@! TD.AperFunction*
-G04 #@! TA.AperFunction,Conductor*
+%TD.AperFunction*%
+%TA.AperFunction,Conductor*%
 G36*
 X122244494Y-86709471D02*
 G01*
@@ -2910,8 +2910,8 @@ X116750861Y-86689469D01*
 X122176373Y-86689469D01*
 X122244494Y-86709471D01*
 G37*
-G04 #@! TD.AperFunction*
-G04 #@! TA.AperFunction,Conductor*
+%TD.AperFunction*%
+%TA.AperFunction,Conductor*%
 G36*
 X141434593Y-64877503D02*
 G01*
@@ -4376,8 +4376,8 @@ X140374436Y-64857501D01*
 X141366472Y-64857501D01*
 X141434593Y-64877503D01*
 G37*
-G04 #@! TD.AperFunction*
-G04 #@! TA.AperFunction,Conductor*
+%TD.AperFunction*%
+%TA.AperFunction,Conductor*%
 G36*
 X149128136Y-66562936D02*
 G01*
@@ -4944,8 +4944,8 @@ X148995010Y-66591895D01*
 X149057320Y-66557871D01*
 X149128136Y-66562936D01*
 G37*
-G04 #@! TD.AperFunction*
-G04 #@! TA.AperFunction,Conductor*
+%TD.AperFunction*%
+%TA.AperFunction,Conductor*%
 G36*
 X120620807Y-53076170D02*
 G01*
@@ -5757,8 +5757,8 @@ X120487682Y-53105129D01*
 X120549992Y-53071105D01*
 X120620807Y-53076170D01*
 G37*
-G04 #@! TD.AperFunction*
-G04 #@! TA.AperFunction,Conductor*
+%TD.AperFunction*%
+%TA.AperFunction,Conductor*%
 G36*
 X137632466Y-51410441D02*
 G01*
@@ -6300,8 +6300,8 @@ X134210060Y-51390439D01*
 X137564345Y-51390439D01*
 X137632466Y-51410441D01*
 G37*
-G04 #@! TD.AperFunction*
-G04 #@! TA.AperFunction,Conductor*
+%TD.AperFunction*%
+%TA.AperFunction,Conductor*%
 G36*
 X121388473Y-50196135D02*
 G01*
@@ -6502,5 +6502,5 @@ X100480491Y-50215564D01*
 X121320318Y-50176262D01*
 X121388473Y-50196135D01*
 G37*
-G04 #@! TD.AperFunction*
+%TD.AperFunction*%
 M02*

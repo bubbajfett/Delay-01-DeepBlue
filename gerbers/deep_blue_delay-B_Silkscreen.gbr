@@ -1,12 +1,12 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.11+dfsg-1build4*
-G04 #@! TF.CreationDate,2026-01-25T22:06:14-05:00*
-G04 #@! TF.ProjectId,deep_blue_delay,64656570-5f62-46c7-9565-5f64656c6179,rev?*
-G04 #@! TF.SameCoordinates,Original*
-G04 #@! TF.FileFunction,Soldermask,Top*
-G04 #@! TF.FilePolarity,Negative*
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.11+dfsg-1build4*%
+%TF.CreationDate,2026-01-27T21:05:07-05:00*%
+%TF.ProjectId,deep_blue_delay,64656570-5f62-46c7-9565-5f64656c6179,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Legend,Bot*%
+%TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.11+dfsg-1build4) date 2026-01-25 22:06:14*
+G04 Created by KiCad (PCBNEW 7.0.11+dfsg-1build4) date 2026-01-27 21:05:07*
 %MOMM*%
 %LPD*%
 G01*
@@ -23,6 +23,7 @@ G04 APERTURE LIST*
 %ADD19R,1.050000X1.500000*%
 %ADD20O,1.050000X1.500000*%
 G04 APERTURE END LIST*
+%LPC*%
 D10*
 X128016000Y-91948000D03*
 D11*
@@ -218,4 +219,5 @@ X131038600Y-99191400D03*
 D20*
 X132308600Y-99191400D03*
 X133578600Y-99191400D03*
+%LPD*%
 M02*
